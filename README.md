@@ -1,2 +1,2 @@
 # knowledge-sharing
-Presentation on Dev knowledge sharing
+Dev knowledge sharing
